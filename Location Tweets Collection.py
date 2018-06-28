@@ -2,9 +2,10 @@
 """
 Created on Fri Feb 24 15:13:45 2017
 
-@author: chait
+@author: vamsinadha-M
 """
 # All import and key syntax is taken from http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+
 import tweepy
 #import contextmanager
 from tweepy import OAuthHandler, Stream

@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
-# LDA code taken from professors slides
+"""
+Created on Fri Feb 24 15:13:45 2017
+
+@author: vamsinadha-M
+"""
+
 import nltk
 import logging
 import gensim

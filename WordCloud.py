@@ -2,9 +2,9 @@
 """
 Created on Thu Mar 30 01:32:39 2017
 
-@author: chait
+@author: vamsinadha-M
 """
-# WordCloud code taken from professors slides
+
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 #stopwords = nltk.corpus.stopwords.words('english')

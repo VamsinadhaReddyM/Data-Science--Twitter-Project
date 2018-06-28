@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Fri Feb 24 15:13:45 2017
 
-## NMF code taken from professors slides
+@author: vamsinadha-M
+"""
+
 #!pip install gensim
 from __future__ import division, print_function
 

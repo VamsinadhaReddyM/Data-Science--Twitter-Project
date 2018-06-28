@@ -2,9 +2,9 @@
 """
 Created on Wed Mar 29 02:04:43 2017
 
-@author: chait
+@author: vamsinadha-M
 """
-# Sentiment analysis code taken from professors slides
+
 #import textblob
 from textblob import TextBlob
 
