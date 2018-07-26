@@ -1,4 +1,4 @@
-# Data Science: Twitter Project
+# Data Science: Test Analytics on Tweets based on any given KeyWord
 
 This project is about collecting the data i.e., JSON from the famous social networking site Twitter using their API.
 
